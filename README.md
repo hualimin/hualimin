@@ -1,6 +1,6 @@
 - 👋 Hi, I’m hurryman
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning multi-agent system、vue and springboot,etc
+- 🌱 I’m currently learning multi-agent system、reinforcement learning to opt Jssp、vue and springboot,etc
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
